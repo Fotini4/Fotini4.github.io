@@ -1,0 +1,21 @@
+body {
+    background-color: #f4f1ea;  /* page background */
+    color: #2f3e34;            /* text color */
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 60px auto;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #b85c38;            /* title color */
+}
+
+a {
+    color: #5c7a6d;            /* links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
